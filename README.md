@@ -14,3 +14,11 @@ We designed the research questions, research hypothesis, surveys, and we collect
 * [Research Paper](docs/MKT3330_Final_Paper.pdf)
 
 * [Presentation Slides](https://docs.google.com/presentation/d/1EUvxgJhTvF17uSYLEPrnYeNu0UhJUvrw2yPdDi5Aot8/edit)
+
+<p align="center">
+  <img width="400" src=pics/pie.jpg>
+</p>
+
+<p align="center">
+  <img width="400" src=pics/eg.jpg>
+</p>
